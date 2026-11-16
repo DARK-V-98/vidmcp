@@ -1,0 +1,6 @@
+{
+  "name": "CutCheck MCP",
+  "description": "Zero-AI Model Context Protocol bridge and studio QA workspace for reference motion inspection, audio review, and rendered video verification locally or online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
